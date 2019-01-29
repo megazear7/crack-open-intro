@@ -10,7 +10,7 @@
 ```
 
 ```
-import CrackOpenIntro from '/node_modules/crack-open-intro/index.js';
+import CrackOpenIntro from '/node_modules/crack-open-intro/src/index.js';
 ```
 
 ## Local Development
