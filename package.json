@@ -1,6 +1,6 @@
 {
   "name": "crack-open-intro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A web intro built on web compoenents and html canvas.",
   "main": "src/index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/megazear7/crack-open-intro#readme",
   "dependencies": {
-    "canvas-play": "^1.0.0"
+    "canvas-play": "^2.0.0"
   },
   "devDependencies": {
     "static-server": "^2.2.1"

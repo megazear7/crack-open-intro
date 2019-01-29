@@ -1,5 +1,5 @@
-import { fillPoints, randomY } from '/node_modules/canvas-play/js/utility.js';
-import Crack from '/node_modules/canvas-play/js/objects/crack.js';
+import { fillPoints, randomY } from '../node_modules/canvas-play/js/utility.js';
+import Crack from '../node_modules/canvas-play/js/objects/crack.js';
 
 export default class CrackOpenIntro extends HTMLElement {
   constructor() {
