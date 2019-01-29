@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/megazear7/crack-open-intro#readme",
   "dependencies": {
-    "canvas-play": "^2.0.0"
+    "canvas-play": "^2.2.0"
   },
   "devDependencies": {
     "static-server": "^2.2.1"
