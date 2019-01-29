@@ -1,0 +1,25 @@
+{
+  "name": "crack-open-intro",
+  "version": "1.0.0",
+  "description": "A web intro built on web compoenents and html canvas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megazear7/crack-open-intro.git"
+  },
+  "keywords": [
+    "webcomponent",
+    "canvas",
+    "intro",
+    "animation"
+  ],
+  "author": "Alex Lockhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megazear7/crack-open-intro/issues"
+  },
+  "homepage": "https://github.com/megazear7/crack-open-intro#readme"
+}
