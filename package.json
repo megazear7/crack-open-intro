@@ -2,8 +2,9 @@
   "name": "crack-open-intro",
   "version": "1.0.0",
   "description": "A web intro built on web compoenents and html canvas.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/megazear7/crack-open-intro/issues"
   },
-  "homepage": "https://github.com/megazear7/crack-open-intro#readme"
+  "homepage": "https://github.com/megazear7/crack-open-intro#readme",
+  "dependencies": {
+    "canvas-play": "^1.0.0"
+  },
+  "devDependencies": {
+    "static-server": "^2.2.1"
+  }
 }
